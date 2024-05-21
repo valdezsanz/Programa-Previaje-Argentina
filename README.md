@@ -1,7 +1,8 @@
-# Programa-Previaje-Argentina
+### [Analisis Programa Previaje](https://github.com/valdezsanz/Programa-Previaje-Argentina):
+El objetivo fue Hacer un analisis y un dashboard informativo resumiendo la evolucion del programa turistico argentino durante sus tres ediciones
 
+Herramientas utilizadas: 
+- Python para limpiar datos y realizar el analisis
+- Power Bi para desarrollar el dashboard
 
-
-![alt text]([http://url/to/img.png](https://project.novypro.com/6qy4Gs))
-
-https://project.novypro.com/6qy4Gs
+[ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjI3YjIwN2UtNGQyYi00OWY2LTlmYjctODNiZGQwMmY2YTUyIiwidCI6IjNlNTMyODRhLWVlZjAtNDI3My05ZTZjLWE2NjA2YmJlMzNiMSJ9)
